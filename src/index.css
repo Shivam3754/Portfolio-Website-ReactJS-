@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  background: #1f1e1b;
+  color: white;
+  transition: 0.5s;
+  font-family: 'outfit';
+}
+.nav-connect:hover{
+  transform: scale(1.05);
+}
